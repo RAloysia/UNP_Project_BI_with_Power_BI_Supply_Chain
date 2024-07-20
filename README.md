@@ -4,6 +4,6 @@ It includes data cleaning, transformation, visualization, and insights generatio
 
 PDF link: https://drive.google.com/file/d/1mWrmnZMhKiWA3cepuunUpmaDKcKKv_ML/view?usp=sharing
 
-Pbix link: https://drive.google.com/file/d/1tza2XSQ1Ef4iMP3mGuWFYRvvb_fJmmZX/view?usp=sharing
+PBIX link: https://drive.google.com/file/d/1tza2XSQ1Ef4iMP3mGuWFYRvvb_fJmmZX/view?usp=sharing
 
 
